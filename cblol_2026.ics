@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
@@ -757,4 +758,9 @@ DTSTART:20260203T210000Z
 SUMMARY:CBLOL: paiN Gaming vs Leviatan
 UID:2b6708e6-ccac-45f9-b7b8-47a888591ca5@2b67.org
 END:VEVENT
+=======
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+>>>>>>> 39498e7593256a3037a0caf6b6fa23e16f4fe700
 END:VCALENDAR
