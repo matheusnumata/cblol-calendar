@@ -28,7 +28,7 @@ jobs:
         pip install -r requirements.txt
 
     - name: Executar o script gerador
-      run: python calendario.py
+      run: python cblol.py
 
     - name: Salvar e dar Push no arquivo .ics atualizado
       run: |
